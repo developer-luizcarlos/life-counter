@@ -59,4 +59,3 @@ namespace HandleLifeTime {
 }
 
 const fullAge = new HandleLifeTime.LifeTime(11, 7, 2004);
-console.log(fullAge.getCompleteAge);
