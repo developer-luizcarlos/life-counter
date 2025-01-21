@@ -44,4 +44,3 @@ class LifeTime
 }
 
 const myAge = new LifeTime(7, 5, 1970);
-console.log(myAge.getCompleteAge())
